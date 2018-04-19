@@ -1,0 +1,5 @@
+链接虚拟机的网址：http://10.16.1.11/Citrix/desktopWeb/ 进去直接点登录
+账号：cims45
+密码：Admin123456
+
+gewit: 账号:zhaolc   密码：zhaolc123
